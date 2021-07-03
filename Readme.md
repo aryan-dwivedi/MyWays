@@ -9,7 +9,7 @@ This is Code for MyWays React Native Challange
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/
+   git clone https://github.com/aryan-dwivedi/MyWays.git
    ```
 
 2. Install NPM packages
