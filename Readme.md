@@ -17,14 +17,17 @@ This is Code for MyWays React Native Challange
    ```sh
    yarn install
    ```
+   
+3. Install POD files for ios
 
-3. Start the simulator
+   ```sh
+   npx pod install ios
+   ```
+
+4. Start the simulator
 
    ```sh
    yarn ios
-   ```
-   ```sh
-   yarn android
    ```
 
 
